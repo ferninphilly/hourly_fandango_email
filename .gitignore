@@ -1,0 +1,8 @@
+*.idea
+*.yaml
+*.pyc
+*boot/*
+*cgroup/*
+*media/*
+*net/*
+
